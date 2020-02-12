@@ -1,0 +1,14 @@
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\bin\Debug\Programming Project 2 - PSI.exe.config
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\bin\Debug\Programming Project 2 - PSI.exe
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\bin\Debug\Programming Project 2 - PSI.pdb
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming Project 2 - PSI.csprojAssemblyReference.cache
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\MainWindow.g.cs
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\App.g.cs
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming Project 2 - PSI_MarkupCompile.cache
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming Project 2 - PSI_MarkupCompile.lref
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\MainWindow.baml
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming Project 2 - PSI.g.resources
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming_Project_2___PSI.Properties.Resources.resources
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming Project 2 - PSI.csproj.GenerateResource.cache
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming Project 2 - PSI.exe
+C:\Users\divya\source\repos\Programming Project 2 - PSI\Programming Project 2 - PSI\obj\Debug\Programming Project 2 - PSI.pdb
